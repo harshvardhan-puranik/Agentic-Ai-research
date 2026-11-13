@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ResearchScholar AI – Paper Discovery",
+  "description": "Scholarly academic paper discovery platform. Expand search queries, retrieve and deduplicate papers across OpenAlex, arXiv, Semantic Scholar \u0026 Crossref, rank with semantic relevance, and export validated Output 1 JSON for Module 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

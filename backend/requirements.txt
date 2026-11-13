@@ -1,0 +1,24 @@
+# =====================================================================
+# ResearchScholar AI – Unified Python LangGraph Orchestrator Requirements
+# =====================================================================
+
+# Core Orchestration
+langgraph>=0.2.20
+langchain-core>=0.3.0
+
+# API Server & Validation
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.9.0
+
+# HTTP & Academic API Client
+httpx>=0.27.0
+aiohttp>=3.10.0
+
+# Mathematical NLP & Academic Document Parsing
+numpy>=1.26.0
+pypdf>=4.3.0
+pymupdf>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
